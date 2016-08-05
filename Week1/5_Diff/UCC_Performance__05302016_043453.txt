@@ -1,0 +1,21 @@
+ A Files: 83   B Files: 83 for 14.5 files processed per second
+
+     Processing  Step     :  seconds
+------------------------- : --------
+ Build file list          :      0
+ Match baselines          :      1
+ Files comparison         :     10
+   Find A duplicates      :      0
+ Generate results A files :      0
+   Find B duplicates      :      0
+ Generate results B files :      0
+               Total time :     11 seconds
+
+    Stack Dumps:  0
+         Errors:  0
+       Warnings:  0
+    Information:  0
+Uncounted Files:  3
+
+
+UCC -d -dir ./src ../UCC_old/src
